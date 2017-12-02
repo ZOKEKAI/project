@@ -23,4 +23,19 @@ public class MainMethod {
 		System.out.println("我这方法有意义啊");
 	}
 
+	public void run3(){
+		System.out.println("..................");
+		System.out.println("||||||||||||||||||");
+	}
+
+	public void run4(){
+		System.out.println("//////////////////////////");
+		System.out.println("----------------------");
+	}
+
+	public void run5(){
+		System.out.println("1111111111111");
+		System.out.println("1111111111111");
+	}
+
 }
