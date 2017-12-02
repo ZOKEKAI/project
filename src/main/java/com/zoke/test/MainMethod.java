@@ -64,11 +64,6 @@ public class MainMethod {
 	}
 
 	public void run11(){
-		System.out.println("66666666666666");
-		System.out.println("66666666666666");
-	}
-
-	public void run11(){
 		System.out.println("7777777777777");
 		System.out.println("7777777777777");
 	}
