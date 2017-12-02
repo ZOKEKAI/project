@@ -46,4 +46,8 @@ public class MainMethod {
 		System.out.println("8");
 	}
 
+	public void run9(){
+		System.out.println("9");
+	}
+
 }
