@@ -34,4 +34,8 @@ public class MainMethod {
 		System.out.println("5");
 	}
 
+	public void run6(){
+		System.out.println("6");
+	}
+
 }
