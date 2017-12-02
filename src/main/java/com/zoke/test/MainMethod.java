@@ -23,4 +23,9 @@ public class MainMethod {
 		System.out.println("你这方法没意义啊");
 	}
 
+	public void run4(){
+		System.out.println("//////////////////////////");
+		System.out.println("----------------------");
+	}
+
 }
