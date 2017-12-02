@@ -78,6 +78,4 @@ public class MainMethod {
 		System.out.println("16");
 	}
 
-	hdtusdhjshd
-
 }
