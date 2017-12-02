@@ -42,4 +42,8 @@ public class MainMethod {
 		System.out.println("7");
 	}
 
+	public void run8(){
+		System.out.println("8");
+	}
+
 }
