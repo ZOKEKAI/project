@@ -20,6 +20,7 @@ public class MainMethod {
 
 	public void run2(){
 		System.out.println("增加了一个方法");
+		System.out.println("你这方法没意义啊");
 	}
 
 }
