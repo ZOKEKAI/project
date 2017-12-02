@@ -58,4 +58,12 @@ public class MainMethod {
 		System.out.println("11");
 	}
 
+	public void run13(){
+		System.out.println("13");
+	}
+
+	public void run14(){
+		System.out.println("14");
+	}
+
 }
