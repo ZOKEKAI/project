@@ -74,4 +74,8 @@ public class MainMethod {
 		System.out.println("15");
 	}
 
+	public void run16(){
+		System.out.println("16");
+	}
+
 }
