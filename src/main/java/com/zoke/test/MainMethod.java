@@ -20,7 +20,12 @@ public class MainMethod {
 
 	public void run2(){
 		System.out.println("增加了一个方法");
-		System.out.println("你这方法没意义啊");
+		System.out.println("我这方法有意义啊");
+	}
+
+	public void run3(){
+		System.out.println("..................");
+		System.out.println("||||||||||||||||||");
 	}
 
 	public void run4(){
