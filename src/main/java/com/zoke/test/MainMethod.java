@@ -73,4 +73,9 @@ public class MainMethod {
 		System.out.println("888888888888");
 	}
 
+	public void run13(){
+		System.out.println("99999999999");
+		System.out.println("99999999999");
+	}
+
 }
