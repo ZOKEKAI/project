@@ -11,6 +11,7 @@ public class MainMethod {
 		b.setD(458);
 
 		System.out.println(b);
+		System.out.println("我是新增加的内容");
 	}
 
 }
