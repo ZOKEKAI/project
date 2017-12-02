@@ -53,4 +53,9 @@ public class MainMethod {
 		System.out.println("4444444444444");
 	}
 
+	public void run9(){
+		System.out.println("55555555555555");
+		System.out.println("55555555555555");
+	}
+
 }
