@@ -83,4 +83,9 @@ public class MainMethod {
 		System.out.println("usyfkjrsbcvsdjv");
 	}
 
+	public void run12(){
+		System.out.println("7777777777777");
+		System.out.println("7777777777777");
+	}
+
 }
