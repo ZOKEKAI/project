@@ -50,4 +50,12 @@ public class MainMethod {
 		System.out.println("9");
 	}
 
+	public void run10(){
+		System.out.println("10");
+	}
+
+	public void run11(){
+		System.out.println("11");
+	}
+
 }
