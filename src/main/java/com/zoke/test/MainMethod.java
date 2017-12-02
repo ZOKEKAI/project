@@ -38,4 +38,8 @@ public class MainMethod {
 		System.out.println("6");
 	}
 
+	public void run7(){
+		System.out.println("7");
+	}
+
 }
