@@ -41,11 +41,5 @@ public class MainMethod {
 	public void run6(){
 		System.out.println("2222222222222");
 		System.out.println("2222222222222");
-	}
-
-	public void run4(){
-		System.out.println("//////////////////////////");
-		System.out.println("----------------------");
-	}
 
 }
