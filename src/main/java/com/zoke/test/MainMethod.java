@@ -82,4 +82,8 @@ public class MainMethod {
 		System.out.println("17");
 	}
 
+	public void run18(){
+		System.out.println("18");
+	}
+
 }
