@@ -18,4 +18,8 @@ public class MainMethod {
 		System.out.println("增加了一个方法");
 	}
 
+	public void run2(){
+		System.out.println("增加了一个方法");
+	}
+
 }
