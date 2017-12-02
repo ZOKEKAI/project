@@ -14,4 +14,8 @@ public class MainMethod {
 		System.out.println("我是新增加的内容");
 	}
 
+	public void run1(){
+		System.out.println("1");
+	}
+
 }
