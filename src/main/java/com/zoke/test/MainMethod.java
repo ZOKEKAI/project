@@ -22,4 +22,8 @@ public class MainMethod {
 		System.out.println("2");
 	}
 
+	public void run3(){
+		System.out.println("3");
+	}
+
 }
