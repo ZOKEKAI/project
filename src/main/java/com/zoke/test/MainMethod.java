@@ -78,4 +78,8 @@ public class MainMethod {
 		System.out.println("16");
 	}
 
+	public void run17(){
+		System.out.println("17");
+	}
+
 }
