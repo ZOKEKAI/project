@@ -68,9 +68,14 @@ public class MainMethod {
 		System.out.println("7777777777777");
 	}
 
+	public void run12(){
+		System.out.println("888888888888");
+		System.out.println("888888888888");
+	}
+
 	public void run13(){
-		System.out.println("888888888888");
-		System.out.println("888888888888");
+		System.out.println("99999999999");
+		System.out.println("99999999999");
 	}
 
 	public void run14(){
