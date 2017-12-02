@@ -26,4 +26,8 @@ public class MainMethod {
 		System.out.println("3");
 	}
 
+	public void run4(){
+		System.out.println("3");
+	}
+
 }
